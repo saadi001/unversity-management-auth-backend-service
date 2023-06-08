@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\.fd26345dac3a1400ac9015dbc5ac6ad14a698175-audit.json",
+    "files": [
+        {
+            "date": 1686152336679,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-07-06-21-success.log",
+            "hash": "e5cb4ab989891713bffff726d9917f2178d184576a7a86a466224d32dbf33263"
+        }
+    ],
+    "hashType": "sha256"
+}
