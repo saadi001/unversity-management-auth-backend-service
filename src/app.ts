@@ -14,8 +14,8 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/api/v1/users', UserRoutes)
 
 // testing
-// app.get('/', (req: Request, res: Response, next: NextFunction)=>{
-//     throw new ApiError(400, "abar error khailam")
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   Promise.reject(new Error('unhandled promise rejection'))
 // })
 // global error handler
 app.use(globalErrorHandler)
