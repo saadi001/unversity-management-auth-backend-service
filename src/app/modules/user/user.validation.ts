@@ -1,4 +1,4 @@
-import { z } from 'zod'
+import { z } from 'zod';
 
 const createUserZodScema = z.object({
   body: z.object({
@@ -7,9 +7,9 @@ const createUserZodScema = z.object({
     }),
     password: z.string().optional(),
   }),
-})
+});
 
 export const userValidation = {
   createUserZodScema,
-}
+};
 //   await createUserZodScema.parseAsync(req)

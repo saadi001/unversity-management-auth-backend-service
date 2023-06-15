@@ -109,6 +109,11 @@
             "date": 1686851550098,
             "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\error\\UM-2023-15-06-23-error.log",
             "hash": "ee0602a8352053705ce32c3eabf098a535fafddc4f6bcdd8f28ec3955275ff65"
+        },
+        {
+            "date": 1686852152109,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\error\\UM-2023-16-06-00-error.log",
+            "hash": "6a7fe253c20e05e3f5a69a4760fd5de3e114ff60c6aed504f41520c6d598548d"
         }
     ],
     "hashType": "sha256"
