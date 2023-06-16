@@ -114,6 +114,21 @@
             "date": 1686852152109,
             "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\error\\UM-2023-16-06-00-error.log",
             "hash": "6a7fe253c20e05e3f5a69a4760fd5de3e114ff60c6aed504f41520c6d598548d"
+        },
+        {
+            "date": 1686909639968,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\error\\UM-2023-16-06-16-error.log",
+            "hash": "b10e596114696ff954723273cda451e190c1fe668397670bec25563e45ae2ef5"
+        },
+        {
+            "date": 1686913260185,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\error\\UM-2023-16-06-17-error.log",
+            "hash": "6c7b1cefe4e7366857e0aa1deacfe5c32a67164c578ef024bc86e87eff410c23"
+        },
+        {
+            "date": 1686916810298,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\error\\UM-2023-16-06-18-error.log",
+            "hash": "141db4ab3521f76eebb67113a427b13a9766113dbf5e5368d0c1174fe8e3f96b"
         }
     ],
     "hashType": "sha256"
