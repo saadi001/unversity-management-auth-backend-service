@@ -6,129 +6,69 @@
     "auditLog": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\.fd26345dac3a1400ac9015dbc5ac6ad14a698175-audit.json",
     "files": [
         {
-            "date": 1686152336679,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-07-06-21-success.log",
-            "hash": "e5cb4ab989891713bffff726d9917f2178d184576a7a86a466224d32dbf33263"
+            "date": 1688919975705,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-09-07-22-success.log",
+            "hash": "fb9e8cec33c39565a4a8cef6c435204368f497f30b22ebee81bc227b4c716f39"
         },
         {
-            "date": 1686202434991,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-08-06-11-success.log",
-            "hash": "013dbfd2941cd75bd97837feb365a609de0ae7124b7fd735194a2a73125938cd"
+            "date": 1689003966807,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-10-07-21-success.log",
+            "hash": "02258333048a8a0586296014cfeaba2c38933cb92f57ec197b3154aea14ce59e"
         },
         {
-            "date": 1686204030259,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-08-06-12-success.log",
-            "hash": "ef9f663185056299d1e28fc45233f854e1a69d239119f9d8042e7030e9bd3228"
+            "date": 1689008782873,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-10-07-23-success.log",
+            "hash": "43550a6d4b8c01605fcbf728024bf0c359a2800913b54f77606ed56fe3f7e9f5"
         },
         {
-            "date": 1686211943767,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-08-06-14-success.log",
-            "hash": "b54dceed294550eb2d961f4002591ea0410106157d4534e864bd5d938499e4b8"
+            "date": 1689012063483,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-07-00-success.log",
+            "hash": "5b49d7cf1d1463f09196fc7f4fca8b9cbc3f256a00d797f4e5915238896eb141"
         },
         {
-            "date": 1686220140523,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-08-06-16-success.log",
-            "hash": "8b37bc8e06fb91bb45c4621905b005cfea2177ec22f890f6ee025abb05b794c6"
+            "date": 1689059552906,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-07-13-success.log",
+            "hash": "9329398c65d1b90df10fb505364b7cf5320e62cf2bfba4a25af8f3ecdbea788d"
         },
         {
-            "date": 1686225835479,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-08-06-18-success.log",
-            "hash": "3cc6160e090f7f8a82990d776cef71851813b9da04490583bff713a99fde64e7"
+            "date": 1689066719086,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-07-15-success.log",
+            "hash": "a60b91838920fa46df4fe7fbdd3c62940fe014f09bdd46f511a82b61141de6a8"
         },
         {
-            "date": 1686233679108,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-08-06-20-success.log",
-            "hash": "ff76d6a9029e07f8dfb6a4ae5476e1907921f4a0ab4daf1acbde45721d3ef2ee"
+            "date": 1689075629005,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-07-17-success.log",
+            "hash": "9937b8276eb9e96f23aaccf2c74a95a8be28c2b1444b13776cc88053c1390536"
         },
         {
-            "date": 1686406666623,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-10-06-20-success.log",
-            "hash": "c3e5297b75bece02a3fa454186a16c93706148e9e363ad6c44f5e3942ef3ce25"
+            "date": 1689077053896,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-07-18-success.log",
+            "hash": "e90867825b19f8e0bfd68c91bd3973db9b4e71085a91e04a56b4cf051aeb1b61"
         },
         {
-            "date": 1686409557858,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-10-06-21-success.log",
-            "hash": "39d73e6c608d4cafadca0ccdb2a95cb0b90c01c0221aecbe442fc6c739f54de1"
+            "date": 1689087852031,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-07-21-success.log",
+            "hash": "57a06f81125ab661ed0cd89d9b896bfd902e478d4c91bfeab64d6a5ffec81684"
         },
         {
-            "date": 1686468357189,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-06-13-success.log",
-            "hash": "2149846d4d73eca523458ef40f16217a92c92d3e23cb595f9e13907800b76a49"
+            "date": 1689103416467,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-12-07-01-success.log",
+            "hash": "ebdc9d9358bd7ef1aa35eee162c86962a27dc9e040d5c5a718b63adc689ee55b"
         },
         {
-            "date": 1686471715987,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-06-14-success.log",
-            "hash": "04186b73edea2dc30a83e0697c75e89f6a1d82ded25fae8c5ded7295bec46ce5"
+            "date": 1689175489128,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-12-07-21-success.log",
+            "hash": "c544cd7ca4fa89dcddff27d68749cac95639ca709255fa7ea99f4c540e9e8c5c"
         },
         {
-            "date": 1686476120584,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-06-15-success.log",
-            "hash": "be3b47a7157a0f4845e5440b47e643a8f39e5e465b1a036a7c7116415ba8359a"
+            "date": 1689185812776,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-07-00-success.log",
+            "hash": "18115bb375f28696a1f2cedd6093e2245bc59c607a452ee7163e8131472cd45d"
         },
         {
-            "date": 1686478326333,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-06-16-success.log",
-            "hash": "f25685d9adda678c4db48d2d1d7691d8f7e35192f2430865bd8ca53079d605b9"
-        },
-        {
-            "date": 1686481507551,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-11-06-17-success.log",
-            "hash": "b3264d7be3d4f6fc845b2119b7fe2ae63e10dbcf9bd4e3a5e892572b3f17fd8c"
-        },
-        {
-            "date": 1686650362141,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-06-15-success.log",
-            "hash": "b0f06780b8d4cc23c7477615c4745b5765eb30af08d02b90574bf0e1c657d241"
-        },
-        {
-            "date": 1686650440406,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-06-16-success.log",
-            "hash": "2d46afaa1c303f7f46bb7c679a78bd6592e2375f1f7444d7ec75d8c26f87a892"
-        },
-        {
-            "date": 1686657590672,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-06-17-success.log",
-            "hash": "435d0e62db0d7d99970456bde47e1d7345714bf2e08d5ff138d504dbf8592a2b"
-        },
-        {
-            "date": 1686657600270,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-06-18-success.log",
-            "hash": "63a2e6e477c183223fffb232b91f6bdfc3a6c941fadc3ba8c5a9a29fa19fd0aa"
-        },
-        {
-            "date": 1686665137918,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-06-20-success.log",
-            "hash": "ff59948fb809e063df4920ba6b0e2b303d03b94b9e7367d254745f003776ea2e"
-        },
-        {
-            "date": 1686847278583,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-15-06-22-success.log",
-            "hash": "5deeabf680b97ec43f5eb925243c821828e1c98d62ad9d5d5d1b6e1a663927a9"
-        },
-        {
-            "date": 1686851550094,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-15-06-23-success.log",
-            "hash": "47808edbbfa89d9354db080e6cf8f3d15f5deb8385939fdcfbd946e02bdc6936"
-        },
-        {
-            "date": 1686852152105,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-16-06-00-success.log",
-            "hash": "d077c515a33e7f97b30f6f44efa0ec724fa6c0f63de2a5174e0bedc75a8953e1"
-        },
-        {
-            "date": 1686909639956,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-16-06-16-success.log",
-            "hash": "d59c60daf22ac6717903a18dd24aee18b8d63239c1a18fb4761d476df960ffdb"
-        },
-        {
-            "date": 1686913260181,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-16-06-17-success.log",
-            "hash": "e6cf4f2861df116340c3a7856825904ff3ba43fd189cdac3025dfb65b2753a01"
-        },
-        {
-            "date": 1686916810289,
-            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-16-06-18-success.log",
-            "hash": "25e3379ec6e98313952d49e2ecfe50284546da9b5dd36f02225b2f582304b1b3"
+            "date": 1689188608345,
+            "name": "D:\\NEXT Level Web developement\\mission 3 Nosql backend braniac\\university management auth service\\logs\\winston\\successes\\UM-2023-13-07-01-success.log",
+            "hash": "7c484c99cebafdd9f4b897aed8cf033a31a2f4a663ce66d685c44d8c3ad005fa"
         }
     ],
     "hashType": "sha256"
