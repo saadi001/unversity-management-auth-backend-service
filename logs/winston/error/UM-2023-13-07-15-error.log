@@ -1,0 +1,3 @@
+Thu Jul 13 2023 15:52:40 [sheikh saadi] error: database failed to connect querySrv ECONNREFUSED _mongodb._tcp.cluster0.biy4zxs.mongodb.net
+Thu Jul 13 2023 15:52:49 [sheikh saadi] error: database failed to connect querySrv ECONNREFUSED _mongodb._tcp.cluster0.biy4zxs.mongodb.net
+Thu Jul 13 2023 15:52:52 [sheikh saadi] error: database failed to connect querySrv ECONNREFUSED _mongodb._tcp.cluster0.biy4zxs.mongodb.net
